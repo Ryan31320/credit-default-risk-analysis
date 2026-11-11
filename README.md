@@ -1,6 +1,7 @@
 # Prédiction du défaut de paiement
 
-**Projet de data science — Ryan Routier**  
+**Projet de data science — Ryan Routier**
+
 Analyse du risque de défaut de clients de cartes de crédit : exploration, préparation des données, comparaison de modèles et interprétation des prédictions.
 
 **Résultat principal :** CatBoost obtient une ROC-AUC de **0,780 sur le test réservé**, après sélection par validation croisée imbriquée et choix du seuil sur l’entraînement.
